@@ -2,4 +2,4 @@
 
 This repository contains ML algorithms implemented from scratch using only basic libraries like numpy. 
 
-- [Neural Network Classifier](./LinearRegression.ipynb)
+- [Neural Network Classifier](./Linear Regression.ipynb)
